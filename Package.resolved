@@ -12,11 +12,11 @@
       },
       {
         "package": "ZIPFoundation",
-        "repositoryURL": "https://github.com/weichsel/ZIPFoundation.git",
+        "repositoryURL": "https://github.com/snksnksnk/ZIPFoundation.git",
         "state": {
-          "branch": null,
-          "revision": "7254c74b49cec2cb81520523ba993c671f71b066",
-          "version": "0.9.14"
+          "branch": "chore/swift6",
+          "revision": "1a3cb49322f5d73982a05ac598e65cab800aecb3",
+          "version": null
         }
       }
     ]
